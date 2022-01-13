@@ -1,3 +1,6 @@
+/* Bootstrap icons import */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+
 .header-wrapper {
     background: url(img_bg.jpg) no-repeat center center;
     background-size: cover;
